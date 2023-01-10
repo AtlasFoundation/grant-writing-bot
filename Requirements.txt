@@ -1,0 +1,4 @@
+requests
+pymongo (if you are using MongoDB)
+mysql-connector-python (if you are using MySQL)
+nltk
